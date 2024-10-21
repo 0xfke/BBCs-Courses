@@ -1,6 +1,6 @@
 # Buna Byte Cybersecurity Learning Resources & Source Code
 
-Welcome to the **Buna Byte Cybersecurity Learning Resources & Source Code** repository! This repository hosts all the supplementary materials for the Buna Byte YouTube videos, including **scripts**, **CTF Walkthrough** **source codes**, **PDFs**, **PowerPoint presentations**, and **images**.
+Welcome to the **Buna Byte Cybersecurity Learning Resources & Source Code** repository! This repository hosts all the supplementary materials for the Buna Byte YouTube videos, including **Scripts**, **CTF Walkthrough**, **Source Codes**, **PDFs**, **PowerPoint presentations**, and **Images**.
 
 ## 🎯 Purpose
 
