@@ -1,6 +1,6 @@
 # Buna Byte Cybersecurity Learning Resources & Source Code
 
-Welcome to the **Buna Byte Cybersecurity Learning Resources & Source Code** repository! This repository hosts all the supplementary materials for the Buna Byte YouTube videos, including **scripts**, **source codes**, **PDFs**, **PowerPoint presentations**, and **images**.
+Welcome to the **Buna Byte Cybersecurity Learning Resources & Source Code** repository! This repository hosts all the supplementary materials for the Buna Byte YouTube videos, including **scripts**, **CTF Walkthrough** **source codes**, **PDFs**, **PowerPoint presentations**, and **images**.
 
 ## 🎯 Purpose
 
@@ -16,10 +16,6 @@ The repository is organized by topic, and each topic folder contains:
 - **PowerPoint Presentations (PPTs)**: Slides used in the video.
 - **Images**: Diagrams and visuals used for explanations.
 
-### Example Structure:
-
-├── Penetration-Testing │ ├── Scripts/ │ │ └── exploit.py │ ├── Source-Code/ │ │ └── pentest_tool.sh │ ├── Penetration-Testing.pdf │ ├── Penetration-Testing.pptx │ └── Diagrams/ │ └── network_topology.png ├── Malware-Analysis │ ├── Scripts/ │ │ └── malware_analysis.py │ ├── Source-Code/ │ │ └── sandbox_tool.c │ ├── Malware-Analysis.pdf │ ├── Malware-Analysis.pptx │ └── Images/ │ └── malware_flowchart.png └── README.md
-
 
 ## 🔍 How to Use
 
@@ -28,18 +24,19 @@ The repository is organized by topic, and each topic folder contains:
 3. **Download or view the PDFs, PowerPoints, or images**: Enhance your learning experience by following along with the visual aids.
 4. **Follow along on my YouTube Channel**: Use the materials in conjunction with the corresponding video.
 
+
 ## 🌐 Connect With Me
 
 For regular updates, new resources, and discussions, you can follow and connect with me on these platforms:
-- **YouTube**: [Buna Byte](https://youtube.com)
-- **Telegram**: [Buna Byte Academy](https://t.me/yourchannel)
-- **Instagram**: [@BunaByte](https://instagram.com/BunaByte)
+- **YouTube**: [Buna Byte](https://www.youtube.com/@bunabyte?sub_confirmation=1)
+- **Telegram**: [Buna Byte](https://t.me/hacker_habesha)
+- **Instagram**: [@0xfke](https://instagram.com/0xfke)
 
 ## 📧 Feedback & Contributions
 
 If you want to contribute to this repository, notice any issues, or have suggestions for improvement, feel free to:
 - **Open a pull request** on GitHub.
-- **Reach out via Telegram** on the [Buna Byte Academy](https://t.me/yourchannel) group.
+- **Reach out via Telegram** on the [Buna Byte Community](https://t.me/hacker_habesha) group.
 - **Leave a comment** on my videos with your feedback.
 
 Your contributions and feedback are highly appreciated!
