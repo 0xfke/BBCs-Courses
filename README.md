@@ -9,7 +9,8 @@ This repository is designed to provide additional resources for my **Buna Byte**
 
 ## My Latest YouTube Video
 
-[![Watch the video](https://i.ytimg.com/an_webp/vr5ePoAKJRA/mqdefault_6s.webp?du=3000&sqp=CLCJsrkG&rs=AOn4CLBk8B16mflQDe7NM1UEpeLgi3DJNw)](https://youtu.be/vr5ePoAKJRA?si=m6YowCCKSR9u354G)
+[![Watch the video](https://i.ytimg.com/vi/vr5ePoAKJRA/maxresdefault.jpg)](https://youtu.be/vr5ePoAKJRA?si=m6YowCCKSR9u354G)
+
 ---
 ## 📂 Repository Structure
 
