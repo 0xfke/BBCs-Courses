@@ -17,6 +17,9 @@ The repository is organized by topic, and each topic folder contains:
 - **PowerPoint Presentations (PPTs)**: Slides used in the video.
 - **Images**: Diagrams and visuals used for explanations.
 
+## My Latest YouTube Video
+
+[![Watch the video](https://i.ytimg.com/an_webp/vr5ePoAKJRA/mqdefault_6s.webp?du=3000&sqp=CLCJsrkG&rs=AOn4CLBk8B16mflQDe7NM1UEpeLgi3DJNw)](https://youtu.be/vr5ePoAKJRA?si=m6YowCCKSR9u354G)
 
 ## 🔍 How to Use
 
