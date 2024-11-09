@@ -48,10 +48,6 @@ If you want to contribute to this repository, notice any issues, or have suggest
 
 Your contributions and feedback are highly appreciated!
 
-## 🔑 Licensing
-
-All resources and code in this repository are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International** license. You are free to use, share, and modify these materials for non-commercial purposes, provided that appropriate credit is given.
-
 ---
 
 Happy learning, coding, and hacking! Let’s continue to secure the digital world together! 🔐☕
