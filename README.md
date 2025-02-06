@@ -36,14 +36,14 @@ The repository is organized by topic, and each topic folder contains:
 
 For regular updates, new resources, and discussions, you can follow and connect with me on these platforms:
 - **YouTube**: [Buna Byte](https://www.youtube.com/@bunabyte?sub_confirmation=1)
-- **Telegram**: [Buna Byte](https://t.me/hacker_habesha)
+- **Telegram**: [Buna Byte](https://t.me/bunabytecs)
 - **Instagram**: [@0xfke](https://instagram.com/0xfke)
 
 ## 📧 Feedback & Contributions
 
 If you want to contribute to this repository, notice any issues, or have suggestions for improvement, feel free to:
 - **Open a pull request** on GitHub.
-- **Reach out via Telegram** on the [Buna Byte Community](https://t.me/hacker_habesha) group.
+- **Reach out via Telegram** on the [Buna Byte Community](https://t.me/buna_byte) group.
 - **Leave a comment** on my videos with your feedback.
 
 Your contributions and feedback are highly appreciated!
